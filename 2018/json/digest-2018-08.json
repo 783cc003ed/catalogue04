@@ -1,5 +1,8 @@
 {
-    "brief": "None       ...       ",
+    "brief": [
+        "None   ...   ",
+        "N\no\nn\ne\n \n \n \n.\n.\n.\n \n \n "
+    ],
     "html_url": "https://blog.harmj0y.net/redteaming/operational-guidance-for-offensive-user-dpapi-abuse/",
     "text": null,
     "title": "Operational Guidance for Offensive User DPAPI Abuse"
